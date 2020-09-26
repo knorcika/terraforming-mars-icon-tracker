@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "89643dbe89ee6a383cd45e34e3008d83",
+    "revision": "241e26cbc5de7be1be6696b3e2238011",
     "url": "/terraforming-mars-icon-tracker/index.html"
   },
   {
-    "revision": "b7bc7be80da5416bca1d",
-    "url": "/terraforming-mars-icon-tracker/static/css/main.a7ae73c8.chunk.css"
+    "revision": "3792a4526915d7714002",
+    "url": "/terraforming-mars-icon-tracker/static/css/main.a865839f.chunk.css"
   },
   {
     "revision": "e598a8520e30e7d57e73",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/terraforming-mars-icon-tracker/static/js/2.df686d16.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b7bc7be80da5416bca1d",
-    "url": "/terraforming-mars-icon-tracker/static/js/main.29a18d36.chunk.js"
+    "revision": "3792a4526915d7714002",
+    "url": "/terraforming-mars-icon-tracker/static/js/main.25e89efd.chunk.js"
   },
   {
     "revision": "926f6f30b1251083d232",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "db449f3025a6cbb5c63699d112a9739d",
     "url": "/terraforming-mars-icon-tracker/static/media/animal.db449f30.png"
+  },
+  {
+    "revision": "cf2cc579428c6597873f5699ac0659ca",
+    "url": "/terraforming-mars-icon-tracker/static/media/background.cf2cc579.jpg"
   },
   {
     "revision": "3658288f3fbe3b5f32cc196187125530",
@@ -60,6 +64,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/terraforming-mars-icon-tracker/static/media/microbe.c78f6e8f.png"
   },
   {
+    "revision": "7142225d455eb4b93e8f75a40321f8d8",
+    "url": "/terraforming-mars-icon-tracker/static/media/questionMark.7142225d.png"
+  },
+  {
     "revision": "e815961d0dc8846b83ec74c81aeec83b",
     "url": "/terraforming-mars-icon-tracker/static/media/science.e815961d.png"
   },
@@ -70,5 +78,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "06ac25f49184c53d5e0571e19584fc9e",
     "url": "/terraforming-mars-icon-tracker/static/media/terraforming-mars-icons.06ac25f4.png"
+  },
+  {
+    "revision": "97c55c795efb186b7a243956fa810cd1",
+    "url": "/terraforming-mars-icon-tracker/static/media/venus.97c55c79.png"
   }
 ]);
