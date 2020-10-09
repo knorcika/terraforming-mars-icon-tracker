@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "24d56db9225ef06ca52c243132ffd1e6",
+    "revision": "872f5530c29916900321009605969e92",
     "url": "/terraforming-mars-icon-tracker/index.html"
   },
   {
-    "revision": "a73fcd9f40fa698d7526",
-    "url": "/terraforming-mars-icon-tracker/static/css/main.b6b9aa31.chunk.css"
+    "revision": "2962c6cdff3159d3c78c",
+    "url": "/terraforming-mars-icon-tracker/static/css/main.6727a6ee.chunk.css"
   },
   {
-    "revision": "e598a8520e30e7d57e73",
-    "url": "/terraforming-mars-icon-tracker/static/js/2.df686d16.chunk.js"
+    "revision": "e7ed4f734c2e736406db",
+    "url": "/terraforming-mars-icon-tracker/static/js/2.c301b0e6.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/terraforming-mars-icon-tracker/static/js/2.df686d16.chunk.js.LICENSE.txt"
+    "url": "/terraforming-mars-icon-tracker/static/js/2.c301b0e6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a73fcd9f40fa698d7526",
-    "url": "/terraforming-mars-icon-tracker/static/js/main.25e89efd.chunk.js"
+    "revision": "2962c6cdff3159d3c78c",
+    "url": "/terraforming-mars-icon-tracker/static/js/main.49feeff5.chunk.js"
   },
   {
     "revision": "926f6f30b1251083d232",
@@ -52,6 +52,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/terraforming-mars-icon-tracker/static/media/event.5fe00ced.png"
   },
   {
+    "revision": "a339878618f2b13aaa538a902f26e2db",
+    "url": "/terraforming-mars-icon-tracker/static/media/heat.a3398786.png"
+  },
+  {
     "revision": "c077f8994c91d4d95bbbf05684893c97",
     "url": "/terraforming-mars-icon-tracker/static/media/jovian.c077f899.png"
   },
@@ -60,8 +64,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/terraforming-mars-icon-tracker/static/media/leaf.0d8667d4.png"
   },
   {
+    "revision": "16fbd5be499e05fa6303bb6322404c76",
+    "url": "/terraforming-mars-icon-tracker/static/media/megaCredit.16fbd5be.png"
+  },
+  {
     "revision": "c78f6e8fdc805bd53684ee0687aa43ff",
     "url": "/terraforming-mars-icon-tracker/static/media/microbe.c78f6e8f.png"
+  },
+  {
+    "revision": "6957fea84f6820d56156dedd96aa9233",
+    "url": "/terraforming-mars-icon-tracker/static/media/none.6957fea8.png"
+  },
+  {
+    "revision": "16710b0359b72c05cd7119738b1180b2",
+    "url": "/terraforming-mars-icon-tracker/static/media/production.16710b03.png"
   },
   {
     "revision": "7142225d455eb4b93e8f75a40321f8d8",
@@ -76,8 +92,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/terraforming-mars-icon-tracker/static/media/space.ef80108a.png"
   },
   {
+    "revision": "b806782a52a8ea5edfd97daceeb2eed5",
+    "url": "/terraforming-mars-icon-tracker/static/media/steel.b806782a.png"
+  },
+  {
+    "revision": "5b99a197bb60dccb9b69fe9c961e03b0",
+    "url": "/terraforming-mars-icon-tracker/static/media/terraformRate.5b99a197.png"
+  },
+  {
     "revision": "06ac25f49184c53d5e0571e19584fc9e",
     "url": "/terraforming-mars-icon-tracker/static/media/terraforming-mars-icons.06ac25f4.png"
+  },
+  {
+    "revision": "19bfd49e6f05e7554ca553f4f9cc6ea1",
+    "url": "/terraforming-mars-icon-tracker/static/media/titanium.19bfd49e.png"
   },
   {
     "revision": "97c55c795efb186b7a243956fa810cd1",
