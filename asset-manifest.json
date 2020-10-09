@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/terraforming-mars-icon-tracker/static/css/main.6727a6ee.chunk.css",
+    "main.css": "/terraforming-mars-icon-tracker/static/css/main.18ef85ad.chunk.css",
     "main.js": "/terraforming-mars-icon-tracker/static/js/main.49feeff5.chunk.js",
     "main.js.map": "/terraforming-mars-icon-tracker/static/js/main.49feeff5.chunk.js.map",
     "runtime-main.js": "/terraforming-mars-icon-tracker/static/js/runtime-main.630a9d2d.js",
@@ -8,9 +8,9 @@
     "static/js/2.c301b0e6.chunk.js": "/terraforming-mars-icon-tracker/static/js/2.c301b0e6.chunk.js",
     "static/js/2.c301b0e6.chunk.js.map": "/terraforming-mars-icon-tracker/static/js/2.c301b0e6.chunk.js.map",
     "index.html": "/terraforming-mars-icon-tracker/index.html",
-    "precache-manifest.165f15284fdfb1dbda93550ee0775549.js": "/terraforming-mars-icon-tracker/precache-manifest.165f15284fdfb1dbda93550ee0775549.js",
+    "precache-manifest.5db9f4a6000d6a85effb52ad90ead4c8.js": "/terraforming-mars-icon-tracker/precache-manifest.5db9f4a6000d6a85effb52ad90ead4c8.js",
     "service-worker.js": "/terraforming-mars-icon-tracker/service-worker.js",
-    "static/css/main.6727a6ee.chunk.css.map": "/terraforming-mars-icon-tracker/static/css/main.6727a6ee.chunk.css.map",
+    "static/css/main.18ef85ad.chunk.css.map": "/terraforming-mars-icon-tracker/static/css/main.18ef85ad.chunk.css.map",
     "static/js/2.c301b0e6.chunk.js.LICENSE.txt": "/terraforming-mars-icon-tracker/static/js/2.c301b0e6.chunk.js.LICENSE.txt",
     "static/media/animal.png": "/terraforming-mars-icon-tracker/static/media/animal.db449f30.png",
     "static/media/App.css": "/terraforming-mars-icon-tracker/static/media/background.cf2cc579.jpg",
@@ -38,7 +38,7 @@
   "entrypoints": [
     "static/js/runtime-main.630a9d2d.js",
     "static/js/2.c301b0e6.chunk.js",
-    "static/css/main.6727a6ee.chunk.css",
+    "static/css/main.18ef85ad.chunk.css",
     "static/js/main.49feeff5.chunk.js"
   ]
 }
