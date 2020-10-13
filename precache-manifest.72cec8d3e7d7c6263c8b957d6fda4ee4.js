@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "03935efb16a300db8e5d0d6494409ef2",
+    "revision": "9357e17fbb286ffb2dbf06ed1234acfe",
     "url": "/terraforming-mars-icon-tracker/index.html"
   },
   {
-    "revision": "db60ac81275f6d4d1212",
-    "url": "/terraforming-mars-icon-tracker/static/css/main.dc8eb5ae.chunk.css"
+    "revision": "7aa903b6917a344830c3",
+    "url": "/terraforming-mars-icon-tracker/static/css/main.3cd6fcd6.chunk.css"
   },
   {
-    "revision": "a2c624ae794367d52587",
-    "url": "/terraforming-mars-icon-tracker/static/js/2.09b82188.chunk.js"
+    "revision": "d102a1fa5dbacbd240a8",
+    "url": "/terraforming-mars-icon-tracker/static/js/2.db9b6e08.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/terraforming-mars-icon-tracker/static/js/2.09b82188.chunk.js.LICENSE.txt"
+    "url": "/terraforming-mars-icon-tracker/static/js/2.db9b6e08.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "db60ac81275f6d4d1212",
-    "url": "/terraforming-mars-icon-tracker/static/js/main.9dd63076.chunk.js"
+    "revision": "7aa903b6917a344830c3",
+    "url": "/terraforming-mars-icon-tracker/static/js/main.ac94221d.chunk.js"
   },
   {
     "revision": "926f6f30b1251083d232",
